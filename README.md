@@ -14,7 +14,6 @@ Provision a local Docker container using **Terraform** to understand Infrastruct
 
 ## 📂 Files Included
 - `main.tf` – Terraform configuration file to provision the Docker container.
-- `screenshots/` – (Optional) Folder for screenshots of terminal outputs.
 - `README.md` – This documentation file.
 
 ---
